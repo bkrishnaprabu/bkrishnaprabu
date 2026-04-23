@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=0078D4&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Krishnaprabu+%F0%9F%91%8B;IIT/IS+Consultant+%7C+AI+Enthusiast;Automation+Specialist+%7C+UAE+%F0%9F%87%A6%F0%9F%87%AA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=0078D4&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Krishnaprabu+%F0%9F%91%8B;IIT/IS+Consultant+%7C+AI+Enthusiastt;Automation+Specialist+%7C+UAE+%F0%9F%87%A6%F0%9F%87%AA" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">🚀 15+ Years Turning IT Complexity into Business Clarity</h3>
